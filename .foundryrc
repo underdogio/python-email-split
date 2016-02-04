@@ -1,0 +1,7 @@
+{
+  "releaseCommands": [
+    "foundry-release-git",
+    "foundry-release-pypi"
+  ]
+}
+
