@@ -1,0 +1,5 @@
+*.pyc
+build/
+dist/
+node_modules/
+email_split.egg-info
